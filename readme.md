@@ -38,8 +38,8 @@ Purpose:<br />
 This file would initialize all the global variables like output file names etc. which would be used by other python files<br />
 
 
-**2. run Corpus_Preprocessing.py<br />
-PRECONDITION: **<br />
+**2. run Corpus_Preprocessing.py**<br />
+**PRECONDITION:**<br />
 A file "config.pkl" should be present in the directory<br />
 
 **POST-CONDITION:**<br />
