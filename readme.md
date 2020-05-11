@@ -8,7 +8,7 @@
 |__Spell_Checked.py<br />
 |__wiki_00<br /><br />
 
---> Please note that the order of running the python scripts should be maintained as specified as all of them are interdependent scripts. 
+- Please note that the order of running the python scripts should be maintained as specified as all of them are interdependent scripts. 
 
 ### System Requirements 
 
